@@ -148,7 +148,7 @@ Add screenshots of:
 
 ## 👨‍💻 Author
 
-**Lucky Lucky**
+**Lakshmi Narasmiha**
 
 B.Tech (CSE - Artificial Intelligence & Machine Learning)
 
