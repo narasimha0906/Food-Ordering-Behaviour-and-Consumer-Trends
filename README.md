@@ -2,7 +2,7 @@
 # 🍽️ Food Ordering Behaviour and Consumer Trends Analysis
 
 ## 📌 Project Overview
-
+@food
 The **Food Ordering Behaviour and Consumer Trends Analysis** project is a web application developed using **Flask** that integrates interactive **Tableau Dashboards** and **Tableau Stories**. The application helps users analyze food ordering patterns, customer preferences, cuisine demand, ratings, and consumer behaviour through interactive visualizations.
 
 This project combines web development and business intelligence to provide meaningful insights for restaurants and food delivery businesses.
